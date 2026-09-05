@@ -127,9 +127,8 @@ def visualize(grid, start, goal, result, title, save_path):
     matp.close(fig)
 
 
-# ---------------------------------------------------------------------------
 # Test harness
-# ---------------------------------------------------------------------------
+
 TEST_CASES = {
     "Test Case 1: Simple Path": [
         "S . . . . . . .",
